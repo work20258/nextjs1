@@ -1,0 +1,22 @@
+
+
+
+.cds--tile__checkmark--persistent {
+    opacity: 0;
+}
+.cds--tile__checkmark { 
+    inset-block-start:unset
+}
+
+.cds--tile {
+    min-block-size: 0.1rem;
+    background-color:#ffff;
+    padding:0.1rem
+}
+
+.scroll--box {
+    margin-left:0px;
+    border: 1px solid;
+    height: 20rem;
+    overflow: scroll
+}
